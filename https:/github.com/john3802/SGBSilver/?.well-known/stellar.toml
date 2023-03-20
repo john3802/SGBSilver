@@ -1,0 +1,18 @@
+[DOCUMENTATION]
+ORG_NAME="SGBS-project"
+ORG_TWITTER="@SGBG-project"
+ORG_LOGO="https://i.ibb.co/nP03Lc2/sgb.png"
+ORG_OFFICIAL_EMAIL="sgb-stell@financial.com"
+
+
+
+
+[[CURRENCIES]]
+code="SGBS"
+issuer="GDOFXSSF5UR2AV3276TNQYWZ5CICUPLSNJYXKAULJSVTR25GQT3PO2ZG"
+name="SGBSilver"
+desc="Officially INDIAN SGB resources represented and managed by Russian Military"
+image="https://i.ibb.co/nP03Lc2/sgb.png"
+fixed_number=10000000000
+max_number=10000000000
+is_unlimited=false
